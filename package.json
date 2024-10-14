@@ -2,7 +2,7 @@
   "name": "moneybalans",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sebastianadamoszek.github.io/MoneyBalance/",
+  "homepage": "https://github.com/SebastianAdamoszek/MoneyBalance",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@reduxjs/toolkit": "^2.2.1",
